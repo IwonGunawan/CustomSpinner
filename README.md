@@ -1,2 +1,2 @@
 # CustomSpinner
-
+![](preview.png)
