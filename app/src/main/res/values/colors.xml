@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="background">#f2f3f4</color>
+    <color name="background_pressed">#f7f8f9</color>
+    <color name="background_gray">#e5e5e6</color>
+    <color name="background_appli">#E2DEE1</color>
+    <color name="btn_refresh">#F19963</color>
+    <color name="btn_filter">#28b3e8</color>
+    <color name="btn_date">#85acd0</color>
+
+    <color name="text_primary">#020202</color>
+    <color name="text_secondary">#595a5c</color>
+    <color name="text_approve">#179E3F</color>
+    <color name="text_decline">#EF000B</color>
+    <color name="text_pending">#E86711</color>
+    <color name="text_gray">#80878d</color>
+    <color name="text_red">#f27d30</color>
+    <color name="text_darkred">#ef4950</color>
+    <color name="text_blue">#1135ac</color>
+    <color name="text_blue_hint">#3cbdfa</color>
+    <color name="text_appli">#E32B50</color>
+    <color name="text_challenge">#8B898B</color>
+    <color name="text_forgot_pin">#f37d30</color>
+
+    <color name="popup_error_title">#FC363F</color>
+    <color name="popup_error_content">#625E5E</color>
+
+
+    <!-- not used -->
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLoading">#7ed1f2</color>
+    <color name="active_dots">#fffafa</color>
+    <color name="inactive_dots">#83878B</color>
+    <color name="backgroud_blue">#DD1411CA</color>
+    <color name="line_orange">#9ac93d</color>
+    <color name="rectangle_number">#dddddd</color>
+    <color name="rectangle_input">#efefef</color>
+    <!-- not used -->
+</resources>

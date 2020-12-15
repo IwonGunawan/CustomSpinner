@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Custom Spinner</string>
+    <string name="filter_all">Semua</string>
+
+    <string-array name="transaction_type_label">
+        <item>Semua</item>
+        <item>Daftar Rekening BCA</item>
+        <item>Daftar Rekening Bank Lain</item>
+        <item>Transfer ke Rekening BCA</item>
+        <item>Transfer ke Rek. Bank Lain dalam Negeri</item>
+        <item>Transfer ke Sakuku</item>
+        <item>Transfer ke BCA Virtual Account</item>
+        <item>Ubah KeyBCA</item>
+        <item>Tambah Koneksi KeyBCA</item>
+        <item>Hapus Koneksi KeyBCA</item>
+    </string-array>
+
+    <string-array name="transaction_type_value">
+        <item>ALL</item>
+        <item>REG_ACCT_BCA</item>
+        <item>REG_ACCT_DOM</item>
+        <item>TRANSFER_BCA</item>
+        <item>TRANSFER_DOM</item>
+        <item>TRANSFER_SAKU</item>
+        <item>TRANSFER_VA</item>
+        <item>CONN_CHG</item>
+        <item>CONN_ADD</item>
+        <item>CONN_DEL</item>
+    </string-array>
+</resources>
